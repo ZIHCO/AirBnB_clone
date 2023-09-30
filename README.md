@@ -5,7 +5,7 @@ This is the first in The AirBnB Clone project; building the console(command inte
 - Retrieve an object from a file, a database etc…
 - Do operations on objects (count, compute stats, etc…)
 - Update attributes of an object
-- Destroy an object
+- Destroy an object.
 
 In addition to the command intepreter, we created our data model by defining our super class [BaseModel](https://github.com/ZIHCO/AirBnB_clone/blob/master/models/base_model.py) and its subclasses defined [here](https://github.com/ZIHCO/AirBnB_clone/blob/master/models).
 We have also taken care of storing and persisting objects to a file (JSON file) which will help with the storage engine.
